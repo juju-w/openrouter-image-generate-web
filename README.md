@@ -11,6 +11,9 @@ An image generator built on the OpenRouter multimodal API, supporting multiple a
 - 📊 Complete API response debugging information
 - 🔒 Secure API Key management
 
+## 📷 ScreenShot
+![ScreenShot](screencapture.png)
+
 ## 🚀 Supported Models
 [View Supported Models](https://openrouter.ai/models?fmt=cards&output_modalities=image)
 

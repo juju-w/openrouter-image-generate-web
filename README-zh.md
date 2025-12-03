@@ -12,6 +12,9 @@
 - 📊 完整的 API 响应调试信息
 - 🔒 安全的 API Key 管理
 
+## 📷 使用截图
+![截图](screencapture.png)
+
 ## 🚀 支持的模型
 [查询支持模型](https://openrouter.ai/models?fmt=cards&output_modalities=image)
 
