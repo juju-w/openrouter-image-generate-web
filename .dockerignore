@@ -1,0 +1,89 @@
+# Git
+.git/
+.gitignore
+.gitattributes
+.github/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# Gradio 缓存
+gradio_cached_examples/
+flagged/
+tmp/
+
+# 环境变量和密钥
+.env
+.env.*
+*.key
+*.pem
+api_keys.txt
+secrets.yaml
+config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# 操作系统
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 文档（可选，如果不想打包进镜像）
+README.md
+LICENSE
+docs/
+*.md
+
+# 测试文件
+tests/
+test_*.py
+*_test.py
+.pytest_cache/
+.coverage
+htmlcov/
+
+# CI/CD
+.gitlab-ci.yml
+
+.travis.yml
+.circleci/
+.github/
+
+# Docker 相关
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# 日志
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+node_modules/

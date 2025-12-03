@@ -2,6 +2,8 @@
 
 An image generator built on the OpenRouter multimodal API, supporting multiple advanced AI image generation models. (***Generated with assistance from Claude-sonnet-4.5***)
 
+### [中文 README](README-zh.md)
+
 ## ✨ Features
 - 🤖 Support for multiple mainstream image generation models (Gemini, FLUX, GPT-5 Image, etc.)
 - 🎯 Custom aspect ratio settings (Gemini models exclusive)
